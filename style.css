@@ -2,6 +2,7 @@
     background-image: url("bg1.jpg");
     background-position: center;
     background-size: cover;
+    overflow: hidden;
   }
   body{
     cursor: pointer;
